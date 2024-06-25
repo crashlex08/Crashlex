@@ -1,9 +1,9 @@
-# Helpage
-One-Stop solution for clumsy bookmarks. Helpage lets you organize your custom bookmarks and most visited sites onto a basic HTML5 webpage.
+# Crashlex
+Solution unique pour les signets maladroits. Helpage vous permet d'organiser vos favoris personnalisés et vos sites les plus visités sur une page Web HTML5 de base.
 
-***Helpage*** is a Webpage Designed with the intention to cut down the need for any regular browser's favorites tab. Moreover, It has bookmarks just similar to a regular browser. 
+***Crashlex*** est une page Web conçue dans le but de réduire le besoin d'onglet Favoris de tout navigateur classique. De plus, il contient des signets similaires à ceux d’un navigateur classique.
 
-Helpage has been tried and tested over months of usage. It has witnessed Hundreds of ✅Changes, ⏫Upgrades, 📈Improvements and 🐞 Bug Fixes as and when Required. It's possible because of the collaborative 🤝 efforts of the team. 
+Helpage a été essayé et testé pendant des mois d'utilisation. Il a été témoin de centaines de ✅Changements, ⏫Mises à niveau, 📈Améliorations et 🐞 Corrections de bugs selon les besoins. C'est possible grâce aux efforts collaboratifs 🤝 de l'équipe.
 
 
 # **How to use Helpage?** *(Efficiently!!)*
