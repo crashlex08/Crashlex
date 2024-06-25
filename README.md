@@ -6,22 +6,21 @@ Solution unique pour les signets maladroits. Helpage vous permet d'organiser vos
 Helpage a été essayé et testé pendant des mois d'utilisation. Il a été témoin de centaines de ✅Changements, ⏫Mises à niveau, 📈Améliorations et 🐞 Corrections de bugs selon les besoins. C'est possible grâce aux efforts collaboratifs 🤝 de l'équipe.
 
 
-# **How to use Helpage?** *(Efficiently!!)*
-1. Copy the URL ```https://devanshuyadav.github.io/helpage/```
-2. Go to your Browser/s settings.
-3. Under ***'OnStartup'** (or any similar option)* , Select *'Open a Specific Page or set of pages'*.
-4. Add New Page and Paste the Copied URL.
-5. And, You're Good to Go. 👍
-
-Now everytime you open your browser, you'll have all your selected websites at one place.
+# **Comment utiliser Helpage ?** *(Efficacement !!)*
+Copiez l'URL https://devanshuyadav.github.io/helpage/
+Accédez aux paramètres de votre navigateur.
+Sous « Au démarrage » (ou toute option similaire), sélectionnez « Ouvrir une page ou un ensemble de pages spécifique ».
+Ajoutez une nouvelle page et collez l'URL copiée.
+Et vous êtes prêt à partir. 👍
+Désormais, chaque fois que vous ouvrirez votre navigateur, vous aurez tous les sites Web sélectionnés au même endroit.
 <br/><br/>
 
-## Chrome:
+## Chrome :
 ![Chrome-Helpage](/images/helpageChrome.png)
-## Brave:
+## Courageux:
 ![Brave-Helpage](/images/helpageBrave.png)
-## Safari:
-![Safari-Helpage](/images/helpageSafari.png)
+##Safari :
+![Safari-Aide](/images/helpageSafari.png)
 
 
 # 👷‍♂️**How to Personalize Helpage?**
