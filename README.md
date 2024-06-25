@@ -7,7 +7,7 @@ Helpage a été essayé et testé pendant des mois d'utilisation. Il a été té
 
 
 # **Comment utiliser Helpage ?** *(Efficacement !!)*
-Copiez l'URL https://devanshuyadav.github.io/helpage/
+Copiez l'URL https://crashlex08.github.io/Crashlex/
 Accédez aux paramètres de votre navigateur.
 Sous « Au démarrage » (ou toute option similaire), sélectionnez « Ouvrir une page ou un ensemble de pages spécifique ».
 Ajoutez une nouvelle page et collez l'URL copiée.
@@ -23,120 +23,120 @@ Désormais, chaque fois que vous ouvrirez votre navigateur, vous aurez tous les 
 ![Safari-Aide](/images/helpageSafari.png)
 
 
-# 👷‍♂️**How to Personalize Helpage?**
+# 👷‍♂️**Comment personnaliser l'aide ?**
 
-1. Fork the Repository.
+1. Forkez le référentiel.
 
-2. Clone the Repository to your Local Environment.
+2. Clonez le référentiel dans votre environnement local.
 
-3. Once the Repository has been cloned you have to open it in Git bash.
+3. Une fois le référentiel cloné, vous devez l'ouvrir dans Git bash.
 
-4. Create a branch specific to the issue you are working on.
-   ```shell
-   git checkout -b your-branch-name
-   ```
-   For clarity, name
-   your branch `update-xxx` or `fix-xxx`. The `xxx` is a short description of the changes you're making. Examples include `update-readme` or `fix-typo-on-contribution-md`.
+4. Créez une branche spécifique au problème sur lequel vous travaillez.
+ ```coquille
+ git checkout -b votre-nom-de-branche
+ ```
+ Pour plus de clarté, nommez
+ votre branche `update-xxx` ou `fix-xxx`. Le « xxx » est une brève description des modifications que vous apportez. Les exemples incluent `update-readme` ou `fix-typo-on-contribution-md`.
 
-5. Open up the project in your favorite text editor, select the file you want to contribute to, and make your changes.
+5. Ouvrez le projet dans votre éditeur de texte préféré, sélectionnez le fichier auquel vous souhaitez contribuer et apportez vos modifications.
 
-6. Add your modified files to Git.
-   ```shell
-   git add path/to/filename.ext
-   ```
-   You can also add all unstaged files using:
-   ```shell
-   git add .
-   ```
+6. Ajoutez vos fichiers modifiés à Git.
+ ```coquille
+ git add chemin/vers/nom de fichier.ext
+ ```
+ Vous pouvez également ajouter tous les fichiers non préparés en utilisant :
+ ```coquille
+ git ajouter .
+ ```
 
-   **Note:** using a `git add .` will automatically add all files. You can do a `git status` to see your changes, but do it **before** `git add`.
+ **Remarque :** l'utilisation d'un `git add .` ajoutera automatiquement tous les fichiers. Vous pouvez faire un `git status` pour voir vos modifications, mais faites-le **avant** `git add`.
 
-7. Commit your changes using a descriptive commit message.
-   ```shell
-   git commit -m "Brief Description of Commit"
-   ```
+7. Validez vos modifications à l'aide d'un message de validation descriptif.
+ ```coquille
+ git commit -m "Brève description de la validation"
+ ```
 
-8. Verify that the origin is your own forked branch and not the main repository.
-   ```shell
-   git remote --verbose
-   ```
+8. Vérifiez que l'origine est votre propre branche forkée et non le référentiel principal.
+ ```coquille
+ git distant --verbose
+ ```
 
-9. Push your commits to your GitHub Fork:
-   ```shell
-   git push -u origin your-branch-name
-   ```
+9. Poussez vos commits sur votre GitHub Fork :
+ ```coquille
+ git push -u origin votre-nom-de-branche
+ ```
 
-10. Submit a pull request.
-Within GitHub, visit this main repository and you should see a banner suggesting that you make a pull request. While you're writing up the pull request, you can add `Closes #XXX` in the message body where `#XXX` is the issue number you're fixing. Therefore, an example would be `Closes #42` would close issue `#42`.
+10. Soumettez une demande de tirage.
+Dans GitHub, visitez ce référentiel principal et vous devriez voir une bannière vous suggérant de faire une pull request. Pendant que vous rédigez la pull request, vous pouvez ajouter « Closes #XXX » dans le corps du message où « #XXX » est le numéro du problème que vous corrigez. Par conséquent, un exemple serait « Ferme #42 » qui fermerait le problème « #42 ».
 <br>
 <br>
 
 
-### Adding New Icon to the Page
-1. In Order to add a new icon to Helpage, you'll need the following beforehand:
-    - `LINK` to the Website you want to add.
-    - An `IMAGE/SVG` for the Logo of the Concerned Website (or Any Relevant Reference Picture you want to have).
-2. Upload the `IMAGE/SVG`, into `assets/` folder with an Appropriate Name *( let's call it ICON_1 for example )* and Extension *( **.png**, **.jpg**, **.jpeg**, **.svg** are some of the extension that'll work fine )*.
-    - Your File should have a relative path similar to `assets/ICON_1.png` *(For Example)*.
-3. Once you've gathered everything listed above and added the Logo
-    - Open `Index.html` and find `<ADD ICON HERE>`. 
-    - You'll have to decide where exactly you want to add your new icon in the page & find exactly **that particular** `<ADD ICON HERE>` comment.
-4. Copy and Paste the following lines of code ***on the line JUST ABOVE*** the `<ADD ICON HERE>` Comment.
+### Ajout d'une nouvelle icône à la page
+1. Afin d'ajouter une nouvelle icône à Helpage, vous aurez besoin au préalable des éléments suivants :
+ - `LIEN` vers le site Web que vous souhaitez ajouter.
+ - Une « IMAGE/SVG » pour le logo du site Web concerné (ou toute image de référence pertinente que vous souhaitez avoir).
+2. Téléchargez l'IMAGE/SVG dans le dossier `assets/` avec un nom approprié *(appelons-le ICON_1 par exemple)* et une extension *( **.png**, **.jpg**, ** .jpeg**, **.svg** sont quelques-unes des extensions qui fonctionneront bien)*.
+ - Votre fichier doit avoir un chemin relatif similaire à `assets/ICON_1.png` *(Par exemple)*.
+3. Une fois que vous avez rassemblé tout ce qui est indiqué ci-dessus et ajouté le logo
+ - Ouvrez `Index.html` et recherchez `<AJOUTER UNE ICÔNE ICI>`.
+ - Vous devrez décider où exactement vous souhaitez ajouter votre nouvelle icône dans la page et trouver exactement **ce commentaire particulier** `<AJOUTER UNE ICÔNE ICI>`.
+4. Copiez et collez les lignes de code suivantes ***sur la ligne JUSTE AU-DESSUS*** du commentaire `<AJOUTER UNE ICÔNE ICI>`.
 
-    ```
-    <!-- <ADD ICON HERE> -->
+ ```
+ <!-- <AJOUTER UNE ICÔNE ICI> -->
 
-    <!-- <INSERT NAME> -->
+ <!-- <INSÉRER LE NOM> -->
 
-      <div class="col-sm-4 col-4 col-lg-2 col-md-3">
-        <div class="icons dark-elem">
-          <a href=" <ADD LINK HERE> " target="_blank">
-            <img src="assets/<NAME OF IMAGE/SVG>" alt="<ALT TEXT>" height="100px">
-          </a>
-        </div>
-      </div>
-    ```
-    Update the folllowing Values accordingly.
-    - `<INSERT NAME>` : Name of Website You've Linked.
-    - `<ADD LINK HERE>` : `LINK` to the Website.
-    - `<NAME OF IMAGE/SVG>` : Name of The Logo Image/SVG file added to `assets/` folder ( For this Example -  `ICON_1.png` )
-    - `<ALT TEXT>` : Name of Website You've Linked.
+ <div class="col-sm-4 col-4 col-lg-2 col-md-3">
+ <div class="icônes dark-elem">
+ <a href=" <AJOUTER UN LIEN ICI> " target="_blank">
+ <img src="assets/<NOM DE L'IMAGE/SVG>" alt="<ALT TEXT>" height="100px">
+ </a>
+ </div>
+ </div>
+ ```
+ Mettez à jour les valeurs suivantes en conséquence.
+ - `<INSERT NAME>` : Nom du site Web que vous avez lié.
+ - `<AJOUTER UN LIEN ICI>` : `LIEN` vers le Site Internet.
+ - `<NOM DE L'IMAGE/SVG>` : Nom du fichier Image/SVG du logo ajouté au dossier `assets/` (Pour cet exemple - `ICON_1.png`)
+ - `<ALT TEXT>` : Nom du site Web que vous avez lié.
 
-  #### `👌 You've Successfully Added a New Icon!! `
+ #### `👌 Vous avez ajouté avec succès une nouvelle icône !! `
 <br>
 <br>
 
 
-### Deleting An Existing Icon On The Page
-1. Find the `<ADD ICON HERE>` comments **Above and Below** the Icon you want to remove.
-2. Delete everything in between the two comments.
-3. Remove Any **ONE** of the `<ADD ICON HERE>` comments. *( Optional but Recommended )*
-#### `👍 You've Successfully Removed an Icon. `
+### Suppression d'une icône existante sur la page
+1. Recherchez les commentaires « <AJOUTER UNE ICÔNE ICI> » **Au-dessus et en dessous** de l'icône que vous souhaitez supprimer.
+2. Supprimez tout ce qui se trouve entre les deux commentaires.
+3. Supprimez **UN** des commentaires `<AJOUTER UNE ICÔNE ICI>`. *(Facultatif mais recommandé)*
+#### `👍 Vous avez supprimé avec succès une icône. `
 <br>
 <br>
 
-### Adding New Bookmark
+### Ajout d'un nouveau signet
 
-1. Find `<ADD BOOKMARK HERE>` in `Index.html`.
-2. Copy and Paste the following lines of code ***on the line JUST ABOVE*** the `<ADD BOOKMARK HERE>` comment.
+1. Recherchez « <AJOUTER UN BOOKMARK ICI> » dans « Index.html ».
+2. Copiez et collez les lignes de code suivantes ***sur la ligne JUSTE AU-DESSUS*** du commentaire `<AJOUTER UN BOOKMARK ICI>`.
 
-    ```
-    <!-- <ADD BOOKMARK HERE> -->
-    <a href="<ADD BOOKMARK LINK>" class="dropdown-item"><INSERT BOOKMARK NAME></a>
-    ```
-    Update the following values accordingly:
-    - `<ADD BOOKMARK LINK>` : Link to the Bookmarked Website.
-    - `<INSERT BOOKMARK NAME>` : Name of the Bookmarked site.
-3. Additionally, if you want a Bookmark Divider, Paste the following line at Required place.
-    ```
-    <div class="dropdown-divider"></div>
-    ```
-#### `👌 Bookmark Added Successfully `
+ ```
+ <!-- <AJOUTER UN SIGNET ICI> -->
+ <a href="<AJOUTER UN LIEN DE SIGNET>" class="dropdown-item"><INSÉRER LE NOM DU SIGNET></a>
+ ```
+ Mettez à jour les valeurs suivantes en conséquence :
+ - `<AJOUTER UN LIEN BOOKMARK>` : Lien vers le site Web mis en signet.
+ - `<INSÉRER LE NOM DU BOOKMARK>` : Nom du site mis en signet.
+3. De plus, si vous souhaitez un séparateur de signets, collez la ligne suivante à l'endroit requis.
+ ```
+ <div class="dropdown-divider"></div>
+ ```
+#### `👌 Le signet a été ajouté avec succès `
 <br>
 <br>
 
-### Removing Existing Bookmarks...
-1. Find the `<ADD BOOKMARK HERE>` comment **Above and Below** the Bookmark you want to remove.
-2. Delete everything in between the comments.
-3. Remove Any **ONE** of the `<ADD BOOKMARK HERE>` comments. *( Optional but Recommended )*
-#### `👍 Successfully Removed a Bookmark `
+### Suppression des favoris existants...
+1. Recherchez le commentaire `<AJOUTER UN BOOKMARK ICI>` **Au-dessus et en dessous** du signet que vous souhaitez supprimer.
+2. Supprimez tout ce qui se trouve entre les commentaires.
+3. Supprimez **UN** des commentaires `<ADD BOOKMARK HERE>`. *(Facultatif mais recommandé)*
+#### `👍 Suppression réussie d'un signet `
