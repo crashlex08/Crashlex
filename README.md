@@ -15,11 +15,11 @@ Et vous êtes prêt à partir. 👍
 Désormais, chaque fois que vous ouvrirez votre navigateur, vous aurez tous les sites Web sélectionnés au même endroit.
 <br/><br/>
 
-## Chrome :
+## Chrome :
 ![Chrome-Helpage](/images/helpageChrome.png)
-## Courageux:
+## Brave:
 ![Brave-Helpage](/images/helpageBrave.png)
-##Safari :
+## Safari:
 ![Safari-Aide](/images/helpageSafari.png)
 
 
