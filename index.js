@@ -9,7 +9,7 @@ function Capitalize(name) {
   return capitalWords.join(" ");
 }
 
-const dark = "🌝";
+const dark = "🌚";
 const light = "🌞";
 
 let user = {
@@ -88,7 +88,7 @@ $("#dark-mode-toggle-button").on("click", function () {
     user.theme = "light";
     localStorage.setItem("HELPAGE_SETTINGS", JSON.stringify(user));
     // for Toggle Button
-    $("#dark-mode-toggle-button").text("🌝");
+    $("#dark-mode-toggle-button").text("🌚");
     // for body, salutation, dropdown & navbar
     $(".light_dark").removeClass("dark");
     $(".light_dark").addClass("light");

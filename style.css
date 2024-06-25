@@ -40,17 +40,17 @@ input[type="checkbox"] {
 }
 
 .light_neo {
-  background-color: #ececec;
-  -webkit-box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.6),
-    10px 10px 15px rgba(70, 70, 70, 0.1);
-  box-shadow: -10px -10px 15px rgba(255, 255, 255, 0.6),
-    10px 10px 15px rgba(70, 70, 70, 0.1);
+  background-color: #ffffff;
+  -webkit-box-shadow: -10px -10px 15px rgba(0, 0, 0, 0.6),
+    10px 10px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: -10px -10px 15px rgba(0, 0, 0, 0.6),
+    10px 10px 15px rgba(0, 0, 0, 0.1);
 }
 
 .dark_neo {
   background: #181818;
   -webkit-box-shadow: 8px 8px 21px #141414, -8px -8px 21px #1c1c1c;
-  box-shadow: 8px 8px 21px #141414, -8px -8px 21px #1c1c1c;
+  box-shadow: 8px 8px 21px #d2ad27, -7px -7px 21px #d2ad27;
 }
 
 .container-fluid {
