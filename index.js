@@ -28,7 +28,7 @@ function setName() {
     user.name = newName;
   } else {
     // no user data preset
-    let username_input = prompt("Please enter your name:");
+    let username_input = prompt("S'il vous plaît entrez votre nom:");
 
     // checks if user has entered if user has added
     if (!username_input) {
